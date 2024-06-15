@@ -11,6 +11,6 @@ Estadisticas para el juego de las patentes
 
 - Seleccionar el interprete de Python que viene con Anaconda en VSCode (`Ctrl+Shift+P` -> `Python: Select Interpreter`)
 
-- Seleccionar el **Kernel** de Jupyter en la parte superior derecha de la ventana de VSCode al interprete de Python de Anaconda
+- Seleccionar el **Kernel** de Jupyter, en la parte superior derecha de la ventana de VSCode, al interprete de Python de Anaconda
 
 - Ejecutar las celdas de código en orden, se puede con `Shift+Enter`
