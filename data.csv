@@ -1,4 +1,4 @@
-patente,encontradaPor,fecha,vehiculo,horaDelDia,Marca
+patente,encontradaPor,fecha,vehiculo,horaDelDia,marca
 000,Prada,17/3/2024,Auto,18,Toyota
 001,Germo,23/3/2024,Auto,12,Toyota
 002,Estani,23/2/2024,Auto,17,Volkswagen
@@ -30,20 +30,20 @@ patente,encontradaPor,fecha,vehiculo,horaDelDia,Marca
 028,Estani,4/5/2024,Auto,12,Renault
 029,Germo,4/5/2024,Auto,9,Mercedes Benz
 030,Chiche,4/5/2024,Auto,11,Volkswagen
-031,Estani,5/5/2024,Moto,16,-
+031,Estani,5/5/2024,Moto,16,
 032,Estani,7/5/2024,Auto,14,Mercedes Benz
 033,Chiche,8/5/2024,Auto,12,Volkswagen
 034,Estani,9/5/2024,Auto,18,Renault
 035,Estani,10/5/2024,Camioneta,11,Mercedes Benz
 036,Estani,11/5/2024,Auto,17,Suzuki
-037,Estani,19/5/2024,Moto,13,-
+037,Estani,19/5/2024,Moto,13,
 038,Chiche,20/5/2024,Auto,11,Audi
 039,Prada,21/5/2024,Auto,13,Volkswagen
 040,Estani,26/5/2024,Auto,13,Audi
 041,Estani,27/5/2024,Auto,10,Audi
 042,Estani,30/5/2024,Auto,9,Opel
 043,Estani,3/6/2024,Auto,12,Renault
-044,Chiche,3/6/2024,Camion de nafta,19,-
+044,Chiche,3/6/2024,Camion de nafta,19,
 045,Estani,5/6/2024,Auto,16,KIA
 046,Estani,8/6/2024,Auto,19,Toyota
 047,Estani,12/6/2024,Auto,12,Mazda
@@ -51,3 +51,4 @@ patente,encontradaPor,fecha,vehiculo,horaDelDia,Marca
 049,Germo,14/6/2024,Auto,11,Honda
 050,Estani,14/6/2024,Taxi,17,Chevrolet
 051,Estani,14/6/2024,Auto,18,BMW
+052,Estani,15/6/2024,Auto,15,Fiat
