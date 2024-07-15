@@ -4,12 +4,14 @@ El objetivo del repositorio es poder visualizar estadisticas variadas de una ins
 
 Estadisticas generales como el **número de patentes encontradas por persona** , o más copadas como **cuanto pagaría una apuesta de quien encuentra la próxima patente**. Y muchas más para sorprenderse y divertirse con tus amigos.
 
+Como ejemplo, el repositorio cuenta con mi intancia del juego, tanto los datos, `data.csv`, como los gráficos dentro del *Notebook*.
+
 # ¿Que es el juego de las patentes?
 
 Es un juego simple el cual consiste en encontrar, en orden numérico, patentes con número desde la 000 hasta la 999. Algo así como completar un albúm de figuritas.
 
 ### ¿Como se juega?
-La manera más facil de empezar a jugar es creando un grupo de chat, por ejemplo en WhatsApp, con tus amigos y a partir de ahí empiezan la busqueda de la patente con número 000. Cuando alguien la encuentra, le saca una foto y la envía al grupo, a partir de ahí se puede buscar la próxima patente y se va avanzando.
+La manera más facil de empezar a jugar es creando un grupo de chat, por ejemplo en WhatsApp, con tus amigos, donde se empieza la busqueda de la primera patente, con número 000. Cuando alguien la encuentra, le saca una foto y la envía al grupo, a partir de ahí se puede buscar la próxima patente, la 001, y así se va avanzando.
 
 ### Reglas generales
 
@@ -17,7 +19,7 @@ La regla más importante es que no se puede sacar foto de una patente que no sea
 
 ### Reglas extras
 
-Puede suceder de que las patentes del país en el que se esté jugando tengan otro tipo de formato, con más números por ejemplo. En este caso la patente solo es válida si tiene 3 o más números y los últimos 3 números son los que forman el número que se está buscando. Por ejemplo, si se está buscando la patente 010 y se encuentra una patente con el número 8010, entonces es válida. Sin embargo si se encuentra una patente con número 10, entonces no es válida.
+Puede suceder que las patentes del país en el que se esté jugando tengan otro tipo de formato, con más números por ejemplo. En este caso la patente solo es válida si tiene 3 o más números y los últimos 3 números son los que forman el número que se está buscando. Por ejemplo, si se está buscando la patente 010 y se encuentra una patente con el número 8010, entonces es válida. Sin embargo, si se encuentra una patente con únicamente número 10, entonces no es válida.
 
 # Recopilación de datos
 
@@ -38,7 +40,7 @@ patente | encontradaPor | fecha    | vehiculo | horaDelDia | marca
 ```
 Es importante notar que no es necesario tener siempre actualizado estos datos, se puede hacer perfectamente cuando se desee ver las estadisticas en algún momento, mirando el historial de fotos del grupo.
 
-Una vez recopiladas se debe exportar en formato *CSV* y guardado con el nombre `data.csv`, remplazando el archivo de ejemplo sobre mi juego, que viene junto al repositorio.
+Una vez recopiladas se debe exportar en formato *CSV* y guardarlo con el nombre `data.csv`, remplazando el archivo de ejemplo sobre mi juego que viene junto al repositorio.
 
 
 # Instalación
@@ -49,12 +51,12 @@ Una vez recopiladas se debe exportar en formato *CSV* y guardado con el nombre `
 
 # Uso con VSCode
 
-- Desde VSCode, abrir el archivo `patentamens.ipynb`
+- Desde VSCode, abrir el archivo *notebook* `patentamens.ipynb`
 
 - Seleccionar el interprete de Python que viene con Anaconda en VSCode (`Ctrl+Shift+P` -> `Python: Select Interpreter`)
 
 - Seleccionar el **Kernel** de Jupyter, en la parte superior derecha de la ventana de VSCode, al interprete de Python de Anaconda
 
-- Seguir las instrucciones del **Setup**
+- Seguir las instrucciones del **Setup** dentro del archivo
 
 - Ejecutar las celdas de código en orden, se puede con `Shift+Enter`
