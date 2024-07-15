@@ -6,7 +6,7 @@ Estadisticas generales como el **número de patentes encontradas por persona** ,
 
 Como ejemplo, el repositorio cuenta con mi instancia del juego, tanto los datos, `data.csv`, como los gráficos dentro del *Notebook*.
 
-# ¿Que es el juego de las patentes?
+# ¿Qué es el juego de las patentes?
 
 Es un juego simple el cual consiste en encontrar, en orden numérico, patentes con número desde la 000 hasta la 999. Algo así como completar un albúm de figuritas.
 
