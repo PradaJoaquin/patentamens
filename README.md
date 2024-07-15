@@ -4,7 +4,7 @@ El objetivo del repositorio es poder visualizar estadisticas variadas de una ins
 
 Estadisticas generales como el **número de patentes encontradas por persona** , o más copadas como **cuanto pagaría una apuesta de quien encuentra la próxima patente**. Y muchas más para sorprenderse y divertirse con tus amigos.
 
-Como ejemplo, el repositorio cuenta con mi intancia del juego, tanto los datos, `data.csv`, como los gráficos dentro del *Notebook*.
+Como ejemplo, el repositorio cuenta con mi instancia del juego, tanto los datos, `data.csv`, como los gráficos dentro del *Notebook*.
 
 # ¿Que es el juego de las patentes?
 
@@ -47,7 +47,7 @@ Una vez recopiladas se debe exportar en formato *CSV* y guardarlo con el nombre 
 
 - Instalar [Python](https://www.python.org/downloads/)
 
-- Instalar [Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/) para usar los notebooks de Jupyter y las librerias necesarias. 
+- Instalar [Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/) para usar los notebooks de Jupyter y las dependencias necesarias. 
 
 # Uso con VSCode
 
