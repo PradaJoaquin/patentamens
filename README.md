@@ -34,8 +34,8 @@ Ejemplo:
 ```
 patente | encontradaPor | fecha    | vehiculo | horaDelDia | marca
 
-000     | Agustín       | 1/1/2023 | Auto     | 16         | Jeep
-001     | Santino       | 2/1/2023 | Auto     | 10         | Toyota
+000     | Agustín       | 1/1/2024 | Auto     | 16         | Jeep
+001     | Santino       | 2/1/2024 | Auto     | 10         | Toyota
 
 ```
 Es importante notar que no es necesario tener siempre actualizado estos datos, se puede hacer perfectamente cuando se desee ver las estadisticas en algún momento, mirando el historial de fotos del grupo.
@@ -47,7 +47,7 @@ Una vez recopiladas se debe exportar en formato *CSV* y guardarlo con el nombre 
 
 - Instalar [Python](https://www.python.org/downloads/)
 
-- Instalar [Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/) para usar los notebooks de Jupyter y las dependencias necesarias. 
+- Instalar [Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/) para usar los notebooks de Jupyter y las dependencias necesarias
 
 # Uso con VSCode
 
