@@ -34,8 +34,8 @@ Ejemplo:
 ```
 patente | encontradaPor | fecha    | vehiculo | horaDelDia | marca
 
-000     | Juan          | 1/1/2023 | Auto     | 16         | Jeep
-001     | Santi         | 2/1/2023 | Auto     | 10         | Toyota       
+000     | Agustín       | 1/1/2023 | Auto     | 16         | Jeep
+001     | Santino       | 2/1/2023 | Auto     | 10         | Toyota
 
 ```
 Es importante notar que no es necesario tener siempre actualizado estos datos, se puede hacer perfectamente cuando se desee ver las estadisticas en algún momento, mirando el historial de fotos del grupo.
