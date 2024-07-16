@@ -11,7 +11,7 @@ Como ejemplo, el repositorio cuenta con mi instancia del juego, tanto los datos,
 Es un juego simple el cual consiste en encontrar, en orden numérico, patentes con número desde la 000 hasta la 999. Algo así como completar un albúm de figuritas.
 
 ### ¿Cómo se juega?
-La manera más facil de empezar a jugar es creando un grupo de chat, por ejemplo en WhatsApp, con tus amigos, donde se empieza la busqueda de la primera patente, con número 000. Cuando alguien la encuentra, le saca una foto y la envía al grupo, a partir de ahí se puede buscar la próxima patente, la 001, y así se va avanzando.
+La manera más facil de empezar a jugar es creando un grupo de chat con tus amigos, por ejemplo en WhatsApp, donde se van a mandar las patentes encontradas. Una vez creado ya se puede empezar la busqueda de la primera patente, con número 000. Cuando alguien la encuentra, le saca una foto y la envía al grupo, a partir de ahí se puede buscar la próxima patente, la 001, y así se va avanzando.
 
 ### Reglas generales
 
