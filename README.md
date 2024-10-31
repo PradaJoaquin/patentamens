@@ -2,7 +2,9 @@
 
 El objetivo del repositorio es poder visualizar estadisticas variadas de una partida del juego de las patentes.
 
-Estadisticas generales como el **número de patentes encontradas por persona** , o más copadas como **cuanto pagaría una apuesta de quien encuentra la próxima patente**. Y muchas más interesantes.
+Estadísticas generales como el **número de patentes encontradas por persona**, **patentes encontradas a lo largo del tiempo**, o más copadas como **cuanto pagaría una apuesta de quién encuentra la próxima patente**. Y otras muchas más interesantes.
+
+![output](https://github.com/user-attachments/assets/ddb66b52-ee7d-4151-ab4b-ac7f79bf8a4f)
 
 Como ejemplo, el repositorio cuenta con mi partida del juego, tanto los datos, `data.csv`, como los gráficos dentro del *Notebook*.
 
